@@ -1,0 +1,2 @@
+# Sponsearch
+Sponsearch is a program that helps connect Research Labs, Freelance Researchers, and Corporate/Organizational Sponsors for the purposes of advancing cutting edge research and innovation. The application uses database techniques as well as Natural Language Processing to best match potentially closely related research initiatives. To run the program, it works best to have Python 3.6, Mongo, Robo3T, the NLTK package, and the spaCy package installed locally. To run the code execute python3 Interface.py.  
